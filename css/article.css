@@ -1,0 +1,17 @@
+.authorDate{
+
+display: block;
+text-align: right;
+
+}
+
+.allLink{
+text-align: center;
+
+}
+
+.separator{
+
+    border: none;
+    border-bottom: 1px dotted grey;
+}
